@@ -1,0 +1,42 @@
+_repo: Baron-von-Munchhausens-merkv0xe6rdige-reiser-og-eventyr_63200
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Doré, Gustave
+    aliases:
+    - Dorè, Gustave
+    - Dore, Gustave
+    - Doré, Louis Christophe Paul Gustave
+    - Doré, Louis Auguste Gustave
+    birthdate: 1832
+    deathdate: 1883
+    gutenberg_agent_id: '1896'
+    url: http://www.gutenberg.org/2009/agents/1896
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Gustave_Doré
+    - https://fr.wikipedia.org/wiki/Gustave_Dor%C3%A9
+creator:
+  author:
+    agent_name: Raspe, Rudolf Erich
+    aliases:
+    - Raspe, R. E. (Rudolf Erich)
+    - Raspe, Rudolph Erich
+    - Raspe, Rudolph Eric
+    birthdate: 1737
+    deathdate: 1794
+    gutenberg_agent_id: '1120'
+    url: http://www.gutenberg.org/2009/agents/1120
+    wikipedia: http://en.wikipedia.org/wiki/Rudolf_Erich_Raspe
+description: ''
+gutenberg_issued: '2020-09-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63200'
+language: 'no'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Baron von Münchhausens merkværdige reiser og eventyr
+url: http://www.gutenberg.org/ebooks/63200
